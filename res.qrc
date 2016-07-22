@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/">
+        <file>app.ico</file>
+        <file>fi.PNG</file>
+        <file>hi.PNG</file>
+        <file>theta.PNG</file>
+    </qresource>
+</RCC>
